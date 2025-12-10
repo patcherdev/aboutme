@@ -1,0 +1,33 @@
+{
+  "name": "patchedev-portfolio",
+  "version": "1.0.0",
+  "description": "macOS-style portfolio website for Patcher Dev",
+  "main": "eternity.html",
+  "scripts": {
+    "start": "live-server .",
+    "dev": "live-server . --port=3000",
+    "build": "echo 'No build process needed for static site'",
+    "test": "echo 'No tests specified'",
+    "optimize-images": "npx imagemin images/* --out-dir=optimized",
+    "compress": "zip -r portfolio.zip . -x '*.git*' 'node_modules/*'"
+  },
+  "keywords": [
+    "portfolio",
+    "macos",
+    "github",
+    "markdown",
+    "webhook"
+  ],
+  "author": "Patcher Dev",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "imagemin-cli": "^7.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patcherdev/aboutme"
+  },
+  "homepage": "https://patcherdev.github.io/aboutme"
+}
