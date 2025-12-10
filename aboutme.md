@@ -1,8 +1,8 @@
 # Patcherdev
 
 ## About Me
-- 20 y/o web developer building tools, sites, and random projects that actually help people.
-- 6ft, active on Discord as **_xyss_**.
+- web developer building tools, sites, and random projects that actually help people.
+- active on Discord as "patcherdev_".
 - Heavy Python user — loves cooking up utilities, automation, and weird experiments in free time.
 - Deep interest in security research, system testing, bug hunting, and pushing tech to its limits.
 - Always reverse‑engineering something and finding new ways to break and improve systems.
@@ -22,6 +22,6 @@
 - Improving my personal toolchain and setup.
 
 ## Find Me
-- Discord: **_xyss_**
+- Discord: "patcherdev_"
 - Always down to discuss coding, tools, and anything tech-related.
 
