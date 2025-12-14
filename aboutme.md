@@ -1,8 +1,8 @@
-# Patcherdev
+# $tacks
 
 ## About Me
 - web developer building tools, sites, and random projects that actually help people.
-- active on Discord as "patcherdev_".
+- active on Discord as "_st4cks".
 - Heavy Python user — loves cooking up utilities, automation, and weird experiments in free time.
 - Deep interest in security research, system testing, bug hunting, and pushing tech to its limits.
 - Always reverse‑engineering something and finding new ways to break and improve systems.
@@ -22,6 +22,6 @@
 - Improving my personal toolchain and setup.
 
 ## Find Me
-- Discord: "patcherdev_"
+- Discord: "_st4cks"
 - Always down to discuss coding, tools, and anything tech-related.
 
